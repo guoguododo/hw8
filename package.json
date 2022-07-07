@@ -1,5 +1,12 @@
 {
   "devDependencies": {
     "jest": "^28.1.2"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }

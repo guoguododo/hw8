@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "inquirer": "^7.1.0",
     "jest": "^28.1.2"
   },
   "directories": {
